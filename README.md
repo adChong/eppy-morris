@@ -16,7 +16,7 @@ Install eppy and SALib and their respective dependencies.
 ### Usage
 
 Main files
-1. [sensitivity.py](https://github.com/adChong/bc-stan/blob/master/src/sensitivity.py): Python class for Morris method with E+ idf
+1. [main.py](https://github.com/adChong/bc-stan/blob/master/src/main.py): Python class for Morris method with E+ idf
 2. [idf_functions.py](https://github.com/adChong/bc-stan/blob/master/src/idf_functions.py): Python class containing functions to modify E+ idf
 
 ## Contact
